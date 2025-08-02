@@ -72,7 +72,4 @@ Fields used in the dataset include:
 - Top instructors can be strategically partnered with
 - More **skill variety** leads to better viewership in flexible formats
 
----
-
-## 📂 Repository Structure
 
