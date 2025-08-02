@@ -16,6 +16,8 @@ The startup wants to grow its recorded lecture segment but lacks data-backed dir
 - How do subtitles and course duration impact views?
 
 ---
+## Glims
+- ![img.png](Pic1.png)
 
 ## 🎯 Objectives
 
