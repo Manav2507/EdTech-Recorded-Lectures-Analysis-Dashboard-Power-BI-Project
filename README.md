@@ -61,7 +61,6 @@ Fields used in the dataset include:
 - Power BI Desktop  
 - Power Query & DAX  
 - Excel/CSV for input  
-- *(Optional)* Python for preprocessing
 
 ---
 
